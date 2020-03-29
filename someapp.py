@@ -4,6 +4,5 @@ print("3rd line")
 print("4th line")
 
 print("5th line")
------------
-hhhhhh
+
 print("6th line")
